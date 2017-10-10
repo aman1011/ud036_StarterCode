@@ -26,21 +26,21 @@ prisoner_of_azkaban = movie.Movie(
 goblet_of_fire = movie.Movie(
     "Harry Potter and the Goblet of Fire",
     "It's all in the J.K. Rowling's Harry Potter and the Goblet of Fire",
-    "https://upload.wikimedia.org/wikipedia/en/c/c9/Harry_Potter_and_the_Goblet_of_Fire_Poster.jpg",
+    "https://upload.wikimedia.org/wikipedia/en/c/c9/Harry_Potter_and_the_Goblet_of_Fire_Poster.jpg",  # noqa
     "https://www.youtube.com/watch?v=3EGojp4Hh6I")
 
 # Creating  instance for movie 5.
 order_of_phoenix = movie.Movie(
     "Harry Potter and the Order of Phoenix",
     "It's all in the J.K. Rowling's Harry Potter and the Order of Phoenix",
-    "https://upload.wikimedia.org/wikipedia/en/e/e7/Harry_Potter_and_the_Order_of_the_Phoenix_poster.jpg",
+    "https://upload.wikimedia.org/wikipedia/en/e/e7/Harry_Potter_and_the_Order_of_the_Phoenix_poster.jpg",  # noqa
     "https://www.youtube.com/watch?v=y6ZW7KXaXYk")
 
 # Creating  instance for movie 6.
 half_blood_prince = movie.Movie(
     "Harry Potter and the Half-Blood Prince",
     "It's all in the J.K. Rowling's Harry Potter and the Half-Blood Prince",
-    "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Harry_Potter_and_the_Half-Blood_Prince_poster.jpg/220px-Harry_Potter_and_the_Half-Blood_Prince_poster.jpg",
+    "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Harry_Potter_and_the_Half-Blood_Prince_poster.jpg/220px-Harry_Potter_and_the_Half-Blood_Prince_poster.jpg",  # noqa
     "https://www.youtube.com/watch?v=sg81Lts5kYY")
 
 # Creating  instance for movie 7.
@@ -48,7 +48,7 @@ deathly_hallow_first = movie.Movie(
     "Harry Potter and the Deathly Hallows - Part 1",
     ("It's all in the J.K. Rowling's Harry Potter and the",
         " Deathly Hallows - Part 1"),
-    "https://upload.wikimedia.org/wikipedia/en/2/2d/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_1.jpg",
+    "https://upload.wikimedia.org/wikipedia/en/2/2d/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_1.jpg",  # noqa
     "https://www.youtube.com/watch?v=MxqsmsA8y5k")
 
 # Creating  instance for movie 8.
@@ -56,7 +56,7 @@ deathly_hallow_second = movie.Movie(
     "Harry Potter and the Deathly Hallows - Part 2",
     ("It's all in the J.K. Rowling's Harry Potter and the",
         " Deathly Hallows - Part 2"),
-    "https://upload.wikimedia.org/wikipedia/en/d/df/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_2.jpg",
+    "https://upload.wikimedia.org/wikipedia/en/d/df/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_2.jpg",  # noqa
     "https://www.youtube.com/watch?v=mObK5XD8udk")
 
 # Making a list of the movie to be fed to fresh_tomatoes.open_movies_page
